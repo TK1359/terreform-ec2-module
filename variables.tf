@@ -4,7 +4,7 @@ default= "eu-west-2"
 
 
 variable "ami" {
-default = "ami-091f18e98bc129c4e"
+default = "ami-123"
 }
 
 
