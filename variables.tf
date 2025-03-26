@@ -1,5 +1,6 @@
 variable "region" {
-default= "eu-west-2"
+description = "name of region"
+type = "string"
 }
 
 
