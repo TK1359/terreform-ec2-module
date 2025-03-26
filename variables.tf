@@ -1,6 +1,5 @@
 variable "region" {
 description = "name of region"
-type = "string"
 }
 
 
